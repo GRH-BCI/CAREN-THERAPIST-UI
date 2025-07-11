@@ -1,0 +1,17 @@
+Duration:0.0,Speed:0.0,Distance:0.0
+Duration:0.5,Speed:0.1,Task:StartWalking
+Distance:0.2
+Duration:1.0,Distance:0.5
+Speed:0.3
+Task:AdjustPosture
+Duration:1.5
+Speed:0.5,Distance:0.9
+Duration:2.0,Speed:0.6
+Distance:1.1,Task:ReachTarget
+Duration:2.5,Speed:0.4
+Duration:3.0,Distance:1.4,Task:HoldPosition
+Speed:0.2
+Task:TurnAround
+Duration:3.5,Speed:0.4,Distance:1.7,Task:ContinueWalking
+Duration:4.0
+Task:Stop
